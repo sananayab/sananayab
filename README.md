@@ -15,13 +15,13 @@ Redux Firebase Agora SDK Firebase | Cloud Messaging Mongo DB Mys Graphql ql Mari
 
 - 👨‍💻 All of my projects are available at [https://github.com/sananayab/sanaprotfolio.github.io](https://github.com/sananayab/sanaprotfolio.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [https://medium.com/@smilepk145](https://medium.com/@smilepk145)
 
 - 💬 Ask me about **Frontend , React ,Node**
 
 - 📫 How to reach me **s.nayyab4@gmail.com**
 
-- 📄 Know about my experiences [https://sanacv.000webhostapp.com/](https://sanacv.000webhostapp.com/)
+- 📄 Know about my experiences [https://smilepk-github-io.vercel.app/](https://smilepk-github-io.vercel.app/)
 
 - ⚡ Fun fact **Funny and creative**
 
