@@ -4,11 +4,11 @@
 - 🌱 <h3 align="center">A passionate full stack developer from Pakistan
 Working on React js  Next js React Native JavaScript Redux 
 Redux Firebase Agora SDK Firebase | Cloud Messaging Mongo DB Mys Graphql ql MariaDB Git Web-Sockets Firebase | Push Notifications OneSignal | Push Notifications</h3>
-<p>Hi there 👋, I'm Priya!
+<p>
 
-Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
+Have exposure to building professional websites  and front-end applications . Experienced with a demonstrated history of working in the information technology and services industries . Skilled in FrontEnd Technologies✍ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
 
-Apart from my professional journey, I am a learner and enthusiastic to learn new tech. I have created 50+ mini & 15 major projects on Reactjs and other technologies. Also deployed and having live-hosted projects, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
+Apart from my professional journey, I am a learner and enthusiastic to learn new tech. I have created 50+ mini & 15 major projects on Reactjs and other technologies. Also deployed and having live-hosted projects, checkout out my GitHub pages or YouTube channel for more details.
 
 Responsibilities- Developing new user-facing features using React.js Building reusable components and front-end libraries for future use Translating designs into high quality code Optimizing components for maximum performance Optimizing performance of the application. Troubleshooting the bugs
 
